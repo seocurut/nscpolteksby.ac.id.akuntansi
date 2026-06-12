@@ -9,11 +9,11 @@
         <link rel="canonical" href="https://nscpolteksby.ac.id/pengelolaan-perhotelan/">
         <meta name="description" content="LANDAKTOTO merupakan situs slot gacor terpercaya yang menyediakan depo pulsa tanpa potongan, RTP tinggi, transaksi cepat, permainan lengkap, dan layanan profesional 24 jam.">
         <meta name="keywords"content="landaktoto, slot gacor, slot pulsa, slot depo pulsa. slot pulsa 5k, slot pulsa tanpa potongan"/>
-        <link rel="amphtml" href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp"/>
-        <link rel="alternate" href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp"/>
-        <link rel="alternate" hreflang="id" href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp"/>
-        <link rel="alternate" hreflang="en" href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp"/>
-        <link rel="alternate" hreflang="x-default" href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp"/>
+        <link rel="amphtml" href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp"/>
+        <link rel="alternate" href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp"/>
+        <link rel="alternate" hreflang="id" href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp"/>
+        <link rel="alternate" hreflang="en" href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp"/>
+        <link rel="alternate" hreflang="x-default" href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp"/>
         <link as='image' href='https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/bannerlandak.png' rel='preload'>
         <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
         <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
@@ -18516,7 +18516,7 @@
                 </div>
                 <div class='vc-header__actions-container'>
                     <div class='vc-header__account'>
-                        <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp">
+                        <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp">
                             <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account">
                                 <span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true">
@@ -18547,7 +18547,7 @@
                         </a>
                     </div>
                     <div class='vc-header__cta'>
-                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+                        <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                             <span class='link__content'>BUAT AKUN
 
 </span>
@@ -18772,8 +18772,8 @@
                                         </div>
                                         <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
                                             <div class='m-cart-config__select-label'></div>
-                                            <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="btn-x ">DAFTAR DISINI</a>
-                                            <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="btn-x ">LOGIN DISINI</a>
+                                            <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="btn-x ">DAFTAR DISINI</a>
+                                            <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="btn-x ">LOGIN DISINI</a>
                                             <style>
                                                 .btn-x {
                                                     display: inline-block;
@@ -18933,7 +18933,7 @@
 </form></div><div class='m-design__tip-container jsProductTips'></div>
 <div class='m-design__buy-ctas'>
     <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='74165272' data-rudderstack-checkout-type='apple-pay'></div>
-    <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp">
+    <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp">
         <button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='LANDAKTOTO' data-rudderstack-event-type='cta'>LIVECHAT LANDAKTOTO
 </button>
     </a>
@@ -23565,23 +23565,23 @@
     }
 </style>
 <div class="footer-floating-tgl">
-    <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="footer-btn-tgl promo" target="_blank" rel="nofollow noopener">
+    <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="footer-btn-tgl promo" target="_blank" rel="nofollow noopener">
         <img src="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/faviconlandak.png" alt="PROMOSI LANDAKTOTO">PROMO
             
     </a>
-    <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="footer-btn-tgl login" target="_blank" rel="nofollow noopener">
+    <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="footer-btn-tgl login" target="_blank" rel="nofollow noopener">
         <img src="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/faviconlandak.png" alt="Login LANDAKTOTO">LOGIN 
             
     </a>
-    <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="footer-btn-tgl daftar" target="_blank" rel="nofollow noopener">
+    <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="footer-btn-tgl daftar" target="_blank" rel="nofollow noopener">
         <img src="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/faviconlandak.png" alt="Daftar LANDAKTOTO">DAFTAR
             
     </a>
-    <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="footer-btn-tgl link" target="_blank" rel="nofollow noopener">
+    <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="footer-btn-tgl link" target="_blank" rel="nofollow noopener">
         <img src="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/faviconlandak.png" alt="WhatsApp LANDAKTOTO">PREDIKSI
             
     </a>
-    <a href="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/amp" class="footer-btn-tgl chat" target="_blank" rel="nofollow noopener">
+    <a href="https://nscpolteksby.pages.dev/pengelolaan.perhotelan/amp" class="footer-btn-tgl chat" target="_blank" rel="nofollow noopener">
         <img src="https://nscpolteksby-ac-id-pengelolaan-perhotelan.pages.dev/faviconlandak.png" alt="Live Chat LANDAKTOTO">LIVE CHAT 
             
     </a>
